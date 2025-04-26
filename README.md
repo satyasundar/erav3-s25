@@ -1,4 +1,4 @@
-# MCP Project
+# MCP Server Demo with GMAIL integration
 
 This project demonstrates the use of the Model Context Protocol (MCP) to create a math agent capable of solving problems iteratively using various tools. The project includes tools for mathematical operations, drawing, and email sending, among others.
 
